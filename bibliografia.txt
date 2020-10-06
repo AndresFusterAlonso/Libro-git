@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 - Chacon, S. and Straub, B. Pro Git. Apress.
 - Loelinger[ger, J. and McCullough, M. Version control with git. 0'Reilly.
+=======
+- scott chacon and ben Straub. pro [D[D[P[C[C[CGit Apress.[D[D[D[D[D[D[D[D.[C[D [C[DApress.
+- Ryan Hodson. Ry's Git tutorial. smashwords (2014)
+>>>>>>> bibliografia
